@@ -6,10 +6,10 @@ This document presents an end-to-end overview of a retrieval pipeline built with
 
 ## Dataset Overview
 
-We used three datasets from the [chunking_evaluation repository](https://github.com/brandonstarxel/chunking_evaluation/tree/main/chunking_evaluation/evaluation_framework/general_evaluation_data), each offering different types of content and queries:
+I used three datasets from the [chunking_evaluation repository](https://github.com/brandonstarxel/chunking_evaluation/tree/main/chunking_evaluation/evaluation_framework/general_evaluation_data), each offering different types of content and queries:
 
 - **Chatlogs**: Real conversation logs with queries and corresponding excerpts.  
-- **State of the Union**: Political speeches paired with related questions.  
+- **State of the Union**: Political speeches paired with related questions.  (which one was chosen in the end)
 - **Wikitext**: Wikipedia article snippets matched to relevant queries.
 
 Each dataset includes:
