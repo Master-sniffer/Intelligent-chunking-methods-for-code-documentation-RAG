@@ -1,7 +1,3 @@
-Here’s a more student-friendly and human-readable version of your markdown file — still in academic style but easier to digest and more approachable:
-
----
-
 # Retrieval Pipeline Using Open-Source Embedding Models
 
 This document presents an end-to-end overview of a retrieval pipeline built with open-source embedding models. The goal is to evaluate how well different models and methods retrieve relevant text chunks based on user queries, using several datasets and evaluation metrics.
